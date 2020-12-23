@@ -1,6 +1,6 @@
 {
   "name": "kc-timespan",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[js] Returns an extract of unix time that changes each S seconds.",
   "main": "index.js",
   "repository": {
